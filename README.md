@@ -1,5 +1,5 @@
 ### Hey there! I am using GitHub 👋
-
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats)
 
 <details>
