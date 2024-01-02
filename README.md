@@ -1,6 +1,9 @@
 ### Hey there! I am using GitHub 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats)
 
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=mgilangggggg)
+
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
