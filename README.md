@@ -1,4 +1,14 @@
 ### Hey there! I am using GitHub 👋
+
+<summary>:zap: Github Profile</summary>
+<img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgilangggggg" />
+
+<summary>:zap: Most Used Languages</summary>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&langs_count=10&layout=compact" />
+
+<summary>:zap: GitHub Stats</summary>
+<img align="left" alt="mgilangggggg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mgilangggggg" />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats)
 
 <!-- GitHub Profile Views Counter -->
