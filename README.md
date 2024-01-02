@@ -1,6 +1,17 @@
 ### Hey there! I am using GitHub 👋
 
-0mEwv+wNSSQz+BEfGKzCKRwkkYrrCbggJU3bR+djR/bMCqO9oPmk0mjurv2uWI/jECETtBvRt29ZWNRoTFnDGZemw4IGUDcC/ncr2fPz7J0rmBRhhqEovLZHNWUfDHojh+REZ8Y1fyqvt6qCdjNcD+jZQ5sGz08mbtyEW1UgJySIUQtdYT0DQn7FVEZVKiE8w/AcvM/IRmgd/cnJx5+q9qoHUz44D2St4dCjxrToZXNZoWeTFj8pPza4zZKmneg5W6S5TUMKL6GYDE476eMORfNytMnZY1deX1DUS2s+OAfoSEHFL7Xr3d0L7/kR1vgTvNpQXbRQbvoMGkjKzYtT+F87ULUISmuSYyzEQyQ5oEhUIoI9CP6V7pBzROh/GDlUZ2CrlaPyVIo0uK/bPKXm9Y6GtvuV65MJ6BPi+8K9d4cSh62HuMVhW1/mkJuOlhiNVVn4rGlbDbOaGfCmzFbwtKvcvLfoQHYyixemVhtRAF+U13TxMN0n5Y5N029dUaX8CQ4W+eAyBoBpYwVMJbHk1WV4XtFnJv1t0zjhvZogFyb+Z0MNHXF1hV3kY3HP15EJ/sWfB3zUHidDfxDyQPwY8fbN2hycO928lP7sy30Xm5kcaYSUPn46Gi3KvAGswPPLY+MxZOq0Ynkhljz3b6Fq3pMy9C/0t6Z1KpD+3rPdSpWpzwG6c58U9HEL1nl7EtWjhSUg7fH7JmXVBqvFwPxhcKikE3/G3iXsiqI2IddCYT0Fv6R51h846VXssrTpAYA6qNb6ITfwja6A1bfpmfVKzbPJhyLa89+ELFrOo6pI3VCA6F8TFPhsEEtEgfclPsyjlrF5JU+k8OVoJTUP2kE0+ZWjhx7c9ULSl38YPpNx5RJUwPzpwYHEw6CvpgAHX3bh5t0ZiCWc1NXcg3a3MkqgsNq2ZkPv6NUNtG/CFr6mjqQ=
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats) <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" width="200" height="200" />
+
+<details>
+ <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&langs_count=10&layout=compact" />
+</details>
+
+<details>
+  <img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgilangggggg" />
+</details>
+
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=mgilangggggg)
 
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
