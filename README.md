@@ -1,10 +1,10 @@
 ### Hey there! I am using GitHub 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats)
+
 <img alt="Github Profile" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mgilangggggg" />
 
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&langs_count=10&layout=compact" />
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats)
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=mgilangggggg)
