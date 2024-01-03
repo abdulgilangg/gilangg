@@ -1,6 +1,6 @@
-<center>
- <h1>Hello, World!</h1>
-</center>
+<!-- Header -->
+<h1 style="text-align:center;">Hello, World!</h1>
+<!-- /Header -->
 
 ### Hey there! I am using GitHub 👋
 
