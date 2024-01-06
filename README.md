@@ -1,6 +1,4 @@
-<!-- Header -->
 <h1 align="center">Hello, World!</h1>
-<!-- /Header -->
 
 ### Hey there! I am using GitHub 👋
 
