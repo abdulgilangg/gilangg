@@ -8,8 +8,7 @@
 | ------------- | ------------- |
 
 <!-- GitHub Profile Views Counter -->
-<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" width="200" height="200" />
-![](https://komarev.com/ghpvc/?username=mgilangggggg)
+<img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" width="200" height="200" /> (https://komarev.com/ghpvc/?username=mgilangggggg)
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
