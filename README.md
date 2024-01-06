@@ -10,9 +10,6 @@
 <!-- Languages -->
  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&langs_count=10&layout=compact&theme=vue" />
 
-<!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=mgilangggggg)
-
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
