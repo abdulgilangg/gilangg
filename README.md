@@ -4,16 +4,14 @@
 
 ### Hey there! I am using GitHub 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mgilangggggg)](https://github.com/mgilangggggg/github-readme-stats) <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" width="200" height="200" />
+| <a href="https://github.com/mgilangggggg/mgilangggggg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgilangggggg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mgilangggggg's github stats" /></a> | <a href="https://github.com/mgilangggggg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" id="octocat" alt="octocat-gif" width="200" height="200" />
 
 <!-- Languages -->
  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&langs_count=10&layout=compact&theme=vue" />
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=mgilangggggg)
-
-![] | <a href="https://github.com/mgilangggggg/mgilangggggg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgilangggggg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mgilangggggg's github stats" /></a> | <a href="https://github.com/mgilangggggg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
