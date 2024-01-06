@@ -9,6 +9,9 @@
 | <a href="https://github.com/mgilangggggg/mgilangggggg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgilangggggg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mgilangggggg's github stats" /></a> | <a href="https://github.com/mgilangggggg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+| <a href="https://github.com/mgilangggggg/mgilangggggg"><img align="center" style="background-color: blue; color: white;" src="https://github-readme-stats.vercel.app/api?username=mgilangggggg&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="mgilangggggg's github stats" /></a> | <a href="https://github.com/mgilangggggg/github-readme-stats"><img align="center" style="background-color: blue; color: white;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
 ![](https://komarev.com/ghpvc/?username=mgilangggggg)
 
 <!--
