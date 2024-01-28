@@ -2,7 +2,7 @@
 
 ### Hey there! I am using GitHub 👋
 
-<img src="https://gifdb.com/images/high/obito-uchiha-blowing-fire-3xc8ft7z87kkai2c.gif" id="obitoo-uchiha" />
+<img src="https://gifdb.com/images/high/obito-uchiha-blowing-fire-3xc8ft7z87kkai2c.gif" id="obitoo-uchiha" width="200px"/>
 
 ![](https://komarev.com/ghpvc/?username=mgilangggggg)
 
