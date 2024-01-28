@@ -1,12 +1,20 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg" />
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mgilangggggg.visitor-badge)
-
 <h1 align="center">Hello, World!</h1>
 
-### Hey there! I am using GitHub 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!;+I'am+using+GitHub+👋;" />
+</h1>
 
 <img src="https://gifdb.com/images/high/obito-uchiha-blowing-fire-3xc8ft7z87kkai2c.gif" id="obitoo-uchiha" width="820px"/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/mgilangggggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mgilangggggg" height="30" width="40" /></a>
+<a href="https://instagram.com/mgilangggggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgilangggggg" height="30" width="40" /></a>
+<a href="https://twitter.com/mgilangggggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mgilangggggg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mgilangggggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mgilangggggg" height="30" width="40" /></a>
+</p>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
