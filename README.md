@@ -1,10 +1,12 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg" />
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=mgilangggggg.visitor-badge)
+
 <h1 align="center">Hello, World!</h1>
 
 ### Hey there! I am using GitHub 👋
 
 <img src="https://gifdb.com/images/high/obito-uchiha-blowing-fire-3xc8ft7z87kkai2c.gif" id="obitoo-uchiha" width="820px"/>
-
-![](https://komarev.com/ghpvc/?username=mgilangggggg)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
