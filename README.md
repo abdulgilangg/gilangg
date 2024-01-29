@@ -14,12 +14,21 @@
 <a href="https://www.youtube.com/c/mgilangggggg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mgilangggggg" height="30" width="40" /></a>
 </p>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒ Languages-Frameworks-Tools ⚒</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=javascript,mysql,python,nodejs,firebase,mongodb,java" /><br>
 </div>
+
+<h3 align="left">Support me:</h3>
+<div align="left">
+<a href="https://saweria.co/mgilangggggg" target="_blank" style="display: inline-block;">
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-square&logo=buymeacoffee" />
+</a>
+</div>
+
+<p></p>
 
 <br/>
 <hr/>
