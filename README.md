@@ -37,6 +37,9 @@
         <a href="">
         <img src="https://skillicons.dev/icons?i=cpp"/>
         </a>
+        <a href="">
+        <img src="https://skillicons.dev/icons?i=sass"/>
+        </a>
     </td>
   </tr>
 
@@ -55,8 +58,9 @@
         <a href="">
         <img src="https://skillicons.dev/icons?i=tailwind&theme=light"/>
         </a>
+        </a>
         <a href="">
-        <img src="https://skillicons.dev/icons?i=sass"/>
+        <img src="https://skillicons.dev/icons?i=express&theme=light"/>
         </a>
     </td>
   </tr>
@@ -72,6 +76,9 @@
         </a>
         <a href="">
         <img src="https://skillicons.dev/icons?i=npm&theme=light"/>
+        </a>
+        <a href="">
+        <img src="https://skillicons.dev/icons?i=react&theme=light"/>
         </a>
     </td>
   </tr>
@@ -203,19 +210,9 @@
 <h3 align="left">Support me :</h3>
 <div align="left">
 <a href="https://saweria.co/mgilangggggg" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-square&logo=buymeacoffee" />
+<img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-square&logo=buymeacoffee&color=blue" />
 </a>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgilangggggg/mgilangggggg/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgilangggggg/mgilangggggg/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mgilangggggg/mgilangggggg/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-<hr/>
-
 
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
