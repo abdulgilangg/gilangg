@@ -13,7 +13,7 @@
   <tr>
     <td>
     <span style="color: lightskyblue">
-    <b>Languages</b>
+    Languages
     </td>
     <td>
         <a href="">
@@ -43,7 +43,7 @@
   <tr>
     <td>
     <span style="color: lightskyblue">
-    <b>Framework</b>
+    Framework
     </td>
     <td>
         <a href="">
@@ -64,7 +64,7 @@
   <tr>
     <td>
     <span style="color: lightskyblue">
-    <b>Library</b>
+    Library
     </td>
     <td>
         <a href="">
@@ -79,7 +79,7 @@
   <tr>
     <td>
     <span style="color: lightskyblue">
-    <b>Database</b>
+    Database
     </td>
     <td>
         <a href="">
@@ -97,7 +97,7 @@
   <tr>
     <td>
     <span style="color: lightskyblue">
-    <b>Tools</b>
+    Tools
     </td>
     <td>
         <a href="">
@@ -168,7 +168,7 @@
   <tr>
     <td>
     <span style="color: lightskyblue">
-    <b>Medsos</b>
+    Medsos
     </td>
     <td>
         <a href="https://github.com/mgilangggggg">
