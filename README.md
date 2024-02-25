@@ -207,6 +207,18 @@
 </a>
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mgilangggggg/mgilangggggg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mgilangggggg/mgilangggggg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mgilangggggg/mgilangggggg/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+<hr/>
+
+| <a href="https://github.com/mgilangggggg/mgilangggggg"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mgilangggggg&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="mgilangggggg's github stats" /></a> | <a href="https://github.com/mgilangggggg/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mgilangggggg&layout=compact&theme=nord&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 <!--
 **mgilangggggg/mgilangggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
