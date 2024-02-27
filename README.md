@@ -22,16 +22,6 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="https://twitter.com/mgilangggggg"><img src="https://skillicons.dev/icons?i=twitter" width="15"/> 𝕏</a>
-├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=instagram" width="15" /> Instagram</a>
-├─◈ <a href="https://t.me/mgilangggggg">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
-│
-└───────────────────────────────▰▰▰
-
 ┌──┤ PROGRAMMING LANGUAGES ├───────▰▰▰
 │
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=html" width="15" /> HTML</a>
@@ -45,4 +35,21 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
 │
 └───────────────────────────────▰▰▰
+
+┌──┤ LIBRARY ├───────▰▰▰
+│
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15" /> React</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ SOCIAL ├─────────▰▰▰
+│
+├─◈ <a href="https://twitter.com/mgilangggggg"><img src="https://skillicons.dev/icons?i=twitter" width="15"/> 𝕏</a>
+├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=instagram" width="15" /> Instagram</a>
+├─◈ <a href="https://t.me/mgilangggggg">Telegram</a>
+├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
+│
+└───────────────────────────────▰▰▰
+
 </pre>
