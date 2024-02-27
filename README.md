@@ -1,7 +1,7 @@
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 <pre>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&abbreviated=true&color=ff69b4"/>
-
   ___   _      ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
   '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
@@ -12,10 +12,10 @@
                         [(_)] |=|    [(_)] |=|    [(_)] |=|
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
-
+  
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Muhamad Gilang Abdul Gani
+├─▣ Full Name: Muhamad Gilang Abdul Gani
 ├─▣ 
 ├─▣ 
 ├─▣ 
@@ -24,9 +24,9 @@
 
 ┌──┤ PROGRAMMING LANGUAGES ├───────▰▰▰
 │
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=html" width="15" /> HTML</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=css" width="15" /> CSS</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
+├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15" /> HTML</a>
+├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15" /> CSS</a>
+├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
 │
 └───────────────────────────────▰▰▰
 
