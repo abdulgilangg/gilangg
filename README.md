@@ -1,5 +1,6 @@
+<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=Visitor&abbreviated=true&color=brightgreen"/>
+
 <pre>
-<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&abbreviated=true&color=ff69b4"/>
   ___   _      ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
   '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
