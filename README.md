@@ -1,6 +1,4 @@
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 <pre>
-
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&abbreviated=true&color=ff69b4"/>
   ___   _      ___   _      ___   _      ___   _      ___   _      ___   _
  [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
@@ -13,6 +11,7 @@
                          '-`  |_|     '-`  |_|     '-`  |_|
                         /mmm/        /mmm/        /mmm/
   
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
 ├─▣ Full Name: Muhamad Gilang Abdul Gani
@@ -51,5 +50,5 @@
 ├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
-
+<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 </pre>
