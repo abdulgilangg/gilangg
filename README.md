@@ -25,32 +25,40 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 PROGRAMMING LANGUAGES ├───────▰▰▰
+┌──┤ ▼ 📂 FRONT END DEVELOPMENT ├───────▰▰▰
 │
 ├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15" /> HTML</a>
 ├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15" /> CSS</a>
 ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
+    └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15" /> React</a>
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS</a>
+      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15" /> Vue.js</a>
+    └─┤ ▼ 📂 LIBRARY ├───────▰▰▰
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15" /> Bootsrap</a>
+      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=jquery" width="15" /> jQuery</a>
+│
+└───────────────────────────────▰▰▰
+
+┌──┤ ▼ 📂 BACK END DEVELOPMENT ├───────▰▰▰
+│
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=expressjs&theme=light" width="15" /> Express JS</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15" /> Bootstrap</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=github&theme=light" width="15" /> Git</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="15" /> MYSQL</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
-│
-├─◈ <a href=""><img src="" width="15" /> </a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ ▼ 📂 LIBRARY ├───────▰▰▰
-│
-├─◈ <a href=""><img src="" width="15" /> </a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 SOCIAL MEDIA ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/mgilangggggg"><img src="https://skillicons.dev/icons?i=twitter" width="15"/> 𝕏</a>
+├─◈ <a href="https://twitter.com/mgilangggggg"><img src="https://skillicons.dev/icons?i=twitter" width="15"/> Twitter</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=instagram" width="15" /> Instagram</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=facebook" width="15" /> Facebook</a>
+├─◈ <a href="">Facebook</a>
 ├─◈ <a href="https://t.me/mgilangggggg">Telegram</a>
 ├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube</a>
 ├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
