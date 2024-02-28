@@ -27,16 +27,19 @@
 
 ┌──┤ ▼ 📂 FRONT END DEVELOPMENT ├───────▰▰▰
 │
-├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15" /> HTML</a>
-├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15" /> CSS</a>
+├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15"/> HTML</a>
+├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15"/> CSS</a>
+    └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootstrap</a>
+      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
 ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
     └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
-      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15" /> React</a>
-      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS</a>
-      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15" /> Vue.js</a>
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React</a>
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15"/> Node JS</a>
+      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15"/> Vue.js</a>
     └─┤ ▼ 📂 LIBRARY ├───────▰▰▰
-      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15" /> Bootsrap</a>
-      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=jquery" width="15" /> jQuery</a>
+      ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootsrap</a>
+      └─◈ <a href=""><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
 │
 └───────────────────────────────▰▰▰
 
