@@ -27,11 +27,12 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤▼ 📂 PROGRAMMING LANGUAGES ├───────▰▰▰
+┌──┤ ▼ 📂 PROGRAMMING LANGUAGES ├───────▰▰▰
 │
 ├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15" /> HTML</a>
 ├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15" /> CSS</a>
 ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
 │
 └───────────────────────────────▰▰▰
 
