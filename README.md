@@ -1,7 +1,7 @@
 <pre>
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=Visitor&abbreviated=true&color=brightgreen"/>
   
-<b>💾 DATA (C:)</b>    ⨉    +                                                                               −    □    ⨉
+<b>💾 DATA (D:)</b>    ⨉    +                                                                               −    □    ⨉
   ←    →    ↑    ⟳  모  >  This PC  >  DATA (D:)  >                                     Search DATA (D:)        ⌕
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
   ⨁ New  |  ✂  ❐  ✎  📋  ↪  🗑  |  ⇅  Sort  ≣  View  |  ●●●
@@ -18,7 +18,8 @@
                                               /mmm/        /mmm/        /mmm/
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 ▼ 💾 DATA (D:)
-┌──┤▼ 📂 WHOAMI ├─────────▰▰▰
+
+┌──┤ ▼ 📂 WHOAMI ├─────────▰▰▰
 │
 ├─▣ Full Name: Muhamad Gilang Abdul Gani
 ├─▣ 
@@ -36,19 +37,19 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤▼ 📂 FRAMEWORK ├───────▰▰▰
+┌──┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
 │
 ├─◈ <a href=""><img src="" width="15" /> </a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤▼ 📂 LIBRARY ├───────▰▰▰
+┌──┤ ▼ 📂 LIBRARY ├───────▰▰▰
 │
 ├─◈ <a href=""><img src="" width="15" /> </a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤▼ 📂 SOSMED ├─────────▰▰▰
+┌──┤ ▼ 📂 SOSMED ├─────────▰▰▰
 │
 ├─◈ <a href="https://twitter.com/mgilangggggg"><img src="https://skillicons.dev/icons?i=twitter" width="15"/> 𝕏</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=instagram" width="15" /> Instagram</a>
@@ -59,9 +60,10 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤▼ 📂 SUPPORT ├─────────▰▰▰
+┌──┤ ▼ 📂 SUPPORT ├─────────▰▰▰
 │
-├─◈ <a href="https://saweria.co/mgilangggggg" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg &logo=buymeacoffee" /></a>
+├─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-square&logo=buymeacoffee&color=blue"/>
+</a>
 │
 └───────────────────────────────▰▰▰
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
