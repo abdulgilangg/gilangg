@@ -59,8 +59,8 @@
 
 ┌──┤ ▼ 📂 SOCIAL MEDIA ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/mgilangggggg"><img src="https://skillicons.dev/icons?i=twitter" width="15"/> Twitter</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=instagram" width="15" /> Instagram</a>
+├─◈ <a href="https://twitter.com/mgilangggggg"><img src="" width="15"/> Twitter</a>
+├─◈ <a href=""><img src="" width="15" /> Instagram</a>
 ├─◈ <a href="">Facebook</a>
 ├─◈ <a href="https://t.me/mgilangggggg">Telegram</a>
 ├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube</a>
