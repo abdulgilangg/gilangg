@@ -59,9 +59,9 @@
 
 ┌──┤ ▼ 📂 SOCIAL MEDIA ├─────────▰▰▰
 │
-├─◈ <a href="" style="text-decoration: none"><img src="" width="15"/> Twitter</a>
-├─◈ <a href=""><img src="" width="15" /> Instagram</a>
-├─◈ <a href=""><ing src="" width="15" /> Facebook</a>
+├─◈ <a href="https://twitter.com/mgilangggggg"><img src="" width="15" /> Twitter</a>
+├─◈ <a href="https://www.instagram.com/mgilangggggg/"><img src="" width="15" /> Instagram</a>
+├─◈ <a href="https://facebook.com/mgilangggggg"><img src="" width="15" /> Facebook</a>
 ├─◈ <a href="https://t.me/mgilangggggg"> Telegram</a>
 ├─◈ <a href="https://www.youtube.com/c/mgilangggggg"> YouTube</a>
 ├─◈ <a href="https://www.linkedin.com/in/mgilangggggg"> LinkedIn</a>
