@@ -59,7 +59,7 @@
 
 ┌──┤ ▼ 📂 SOCIAL MEDIA ├─────────▰▰▰
 │
-├─◈ <a href=""><img src="" width="15"/> Twitter</a>
+├─◈ <a href="" style="text-decoration: none"><img src="" width="15"/> Twitter</a>
 ├─◈ <a href=""><img src="" width="15" /> Instagram</a>
 ├─◈ <a href=""><ing src="" width="15" /> Facebook</a>
 ├─◈ <a href="https://t.me/mgilangggggg"> Telegram</a>
