@@ -1,4 +1,8 @@
 <pre>
+<!-- Typing -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!;+I'am+using+GitHub+👋;" />
+</h1>
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=Visitor&abbreviated=true&color=brightgreen"/>
   
 <b>💾 DATA (D:)</b>    ⨉    +                                                                                       −    □    ⨉
@@ -21,7 +25,7 @@
 
 ┌──┤ ▼ 📂 WHOAMI ├─────────▰▰▰
 │
-├─▣ Muhamad Gilang Abdul Gani
+├─▣ Hi! am Muhamad Gilang Abdul Gani
 │
 └───────────────────────────────▰▰▰
 
@@ -59,12 +63,12 @@
 
 ┌──┤ ▼ 📂 SOCIAL MEDIA ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/mgilangggggg"><img src="" width="15" /> Twitter</a>
-├─◈ <a href="https://www.instagram.com/mgilangggggg/"><img src="" width="15" /> Instagram</a>
-├─◈ <a href="https://facebook.com/mgilangggggg"><img src="" width="15" /> Facebook</a>
-├─◈ <a href="https://t.me/mgilangggggg"> Telegram</a>
-├─◈ <a href="https://www.youtube.com/c/mgilangggggg"> YouTube</a>
-├─◈ <a href="https://www.linkedin.com/in/mgilangggggg"> LinkedIn</a>
+├─◈ <a href="https://twitter.com/mgilangggggg">Twitter 👈</a>
+├─◈ <a href="https://www.instagram.com/mgilangggggg/">Instagram 👈</a>
+├─◈ <a href="https://facebook.com/mgilangggggg">Facebook 👈</a>
+├─◈ <a href="https://t.me/mgilangggggg">Telegram 👈</a>
+├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube 👈</a>
+├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn 👈</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -74,4 +78,8 @@
 │
 └───────────────────────────────▰▰▰
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
+<!-- Typing -->
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you 🚀;" />
+</h1>
 </pre>
