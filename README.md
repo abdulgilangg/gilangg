@@ -61,14 +61,24 @@
 │
 └───────────────────────────────▰▰▰
 
+┌──┤ ▼ 📂 OTHERS ├───────▰▰▰
+│
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
+│
+└───────────────────────────────▰▰▰
+
 ┌──┤ ▼ 📂 SOCIAL MEDIA ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/mgilangggggg">Twitter 👈</a>
-├─◈ <a href="https://www.instagram.com/mgilangggggg/">Instagram 👈</a>
-├─◈ <a href="https://facebook.com/mgilangggggg">Facebook 👈</a>
-├─◈ <a href="https://t.me/mgilangggggg">Telegram 👈</a>
-├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube 👈</a>
-├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn 👈</a>
+├─◈ <a href="https://twitter.com/mgilangggggg">Twitter</a>
+├─◈ <a href="https://www.instagram.com/mgilangggggg/">Instagram</a>
+├─◈ <a href="https://facebook.com/mgilangggggg">Facebook</a>
+├─◈ <a href="https://t.me/mgilangggggg">Telegram</a>
+├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube</a>
+├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
