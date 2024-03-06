@@ -26,6 +26,7 @@
 ┌──┤ ▼ 📂 WHOAMI ├─────────▰▰▰
 │
 ├─▣ Hi! am Muhamad Gilang Abdul Gani
+├─▣ Informatics Engineering Student at Universitas Komputer Indonesia
 │
 └───────────────────────────────▰▰▰
 
