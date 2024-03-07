@@ -41,7 +41,7 @@
 │   └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
 │     ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React</a>
 │     ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15"/> Node JS</a>
-│     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15"/> Vue.js</a>
+│     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15"/> Vue js</a>
 │   └─┤ ▼ 📂 LIBRARY ├───────▰▰▰
 │     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
 │
