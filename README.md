@@ -80,6 +80,7 @@
 ├─◈ <a href="https://www.youtube.com/c/mgilangggggg">YouTube</a>
 ├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
 ├─◈ <a href="https://open.spotify.com/user/2ggfmuo2fm3urlkalrq3xt02u?si=b9a347c3e1da4ee0">Spotify</a>
+├─◈ <a href="https://discord.gg/mgilangggggg">Discord</a>
 │
 └───────────────────────────────▰▰▰
 
