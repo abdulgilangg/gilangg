@@ -52,7 +52,6 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=expressjs&theme=light" width="15" /> Express JS</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15" /> Bootstrap</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=github&theme=light" width="15" /> Git</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="15" /> MYSQL</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
