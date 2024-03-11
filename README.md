@@ -67,6 +67,7 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
+├─◈ <a href="https://www.figma.com/@mgilangggggg">Figma</a>
 │
 └───────────────────────────────▰▰▰
 
@@ -80,7 +81,6 @@
 ├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
 ├─◈ <a href="https://open.spotify.com/user/2ggfmuo2fm3urlkalrq3xt02u?si=b9a347c3e1da4ee0">Spotify</a>
 ├─◈ <a href="https://discord.gg/mgilangggggg">Discord</a>
-├─◈ <a href="https://www.figma.com/@mgilangggggg">Figma</a>
 │
 └───────────────────────────────▰▰▰
 
