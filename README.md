@@ -75,7 +75,6 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
 │
 └───────────────────────────────▰▰▰
 
