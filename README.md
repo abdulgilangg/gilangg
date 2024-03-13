@@ -60,6 +60,14 @@
 │
 └───────────────────────────────▰▰▰
 
+┌──┤ ▼ 📂 DESIGN TOOLS ├───────▰▰▰
+│
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=miro&theme=light" width="15" /> Miro</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=balsamiq&theme=light" width="15" /> Balsamiq</a>
+│
+└───────────────────────────────▰▰▰
+
 ┌──┤ ▼ 📂 OTHERS ├───────▰▰▰
 │
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
