@@ -74,6 +74,7 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
 │
