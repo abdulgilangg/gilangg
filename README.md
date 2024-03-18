@@ -77,6 +77,7 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Trello</a>
 │
 └───────────────────────────────▰▰▰
 
