@@ -79,6 +79,7 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Trello</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canvas</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Dribble</a>
 │
 └───────────────────────────────▰▰▰
 
