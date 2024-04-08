@@ -8,7 +8,7 @@
 <b>💾 DATA (D:)</b>    ⨉    +                                                                                       −    □    ⨉
   ←    →    ↑    ⟳  모  >  This PC  >  DATA (D:)  >                                            Search DATA (D:)        ⌕
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
-  ⨁ New  |  ✂  ❐  ✎  📋  ↪  🗑  |  ⇅  Sort  ≣  View  |  ...
+  ⨁ New  |  ✂  ❐  ✎  <i class="fa-solid fa-paste"></i>  ↪  🗑  |  ⇅  Sort  ≣  View  |  ...
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
                         ___   _      ___   _      ___   _      ___   _      ___   _      ___   _
                        [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
