@@ -102,6 +102,9 @@
 ├─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-square&logo=buymeacoffee&color=blue"/></a>
 │
 └───────────────────────────────▰▰▰
-<h2 align="center">NUHUN!</h2>
+<center>
+<h2>NUHUN!</h2>
+<p>and have nice day 😉<p>
+</center>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 </pre>
