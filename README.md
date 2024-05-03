@@ -27,7 +27,7 @@
 │
 ├─▣ Hey there! 👋, I am Gilang
 ├─▣ 👨‍💻 Full-Stack Developer
-│
+|
 ├─▣ 🪪 : Muhamad Gilang Abdul Gani
 ├─▣ 🏢 : Student & Freelance (Available)
 ├─▣ 📞 : +62 838-6129-3196
