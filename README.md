@@ -33,6 +33,8 @@
 ├─▣ 📞 : +62 838-6129-3196
 ├─▣ 📧 : muhamadgilangabdulgani@gmail.com
 ├─▣ 📍 : Ciamis, Indonesia
+|
+├─▣ <a href=""><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
 
@@ -105,7 +107,7 @@
 
 ┌──┤ ▼ 📂 SUPPORT ├─────────▰▰▰
 │
-├─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-square&logo=buymeacoffee&color=blue"/></a>
+├─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=blue"/></a>
 │
 └───────────────────────────────▰▰▰
     
