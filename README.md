@@ -34,7 +34,7 @@
 ├─▣ 📧 : muhamadgilangabdulgani@gmail.com
 ├─▣ 📍 : Ciamis, Indonesia
 |
-├─▣ <a href=""><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
+├─▣ <a href="https://www.google.com"><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
 
