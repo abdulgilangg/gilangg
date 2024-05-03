@@ -25,8 +25,15 @@
 
 ┌──┤ ▼ 📂 WHOAMI ├─────────▰▰▰
 │
-├─▣ Hi! am Muhamad Gilang Abdul Gani
-├─▣ Informatics Engineering Student at Universitas Komputer Indonesia
+├─▣ Hi! I am Gilang
+├─▣ Full-Stack Developer
+├─▣ and Student Informatics Engineering at Universitas Komputer Indonesia
+│
+├─▣ Full Name : Muhamad Gilang Abdul Gani
+├─▣ Status : Student & Freelance (Available)
+├─▣ Phone Number : +62 838-6129-3196
+├─▣ Email : muhamadgilangabdulgani@gmail.com
+├─▣ From : Ciamis, Indonesia
 │
 └───────────────────────────────▰▰▰
 
