@@ -2,7 +2,7 @@
 <!-- Typing -->
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=ff69b4"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!;+I'am+using+GitHub+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+personal+🙌;" />
 </h1>
   
 <b>💾 DATA (D:)</b>    ⨉    +                                                                                       −    □    ⨉
@@ -25,15 +25,14 @@
 
 ┌──┤ ▼ 📂 WHOAMI ├─────────▰▰▰
 │
-├─▣ Hi! I am Gilang
-├─▣ Full-Stack Developer
-├─▣ and Student Informatics Engineering at Universitas Komputer Indonesia
+├─▣ Hey there! 👋, I am Gilang
+├─▣ 👨‍💻 Full-Stack Developer
 │
-├─▣ Full Name : Muhamad Gilang Abdul Gani
-├─▣ Status : Student & Freelance (Available)
-├─▣ Phone Number : +62 838-6129-3196
-├─▣ Email : muhamadgilangabdulgani@gmail.com
-├─▣ From : Ciamis, Indonesia
+├─▣ 🪪 : Muhamad Gilang Abdul Gani
+├─▣ 🏢 : Student & Freelance (Available)
+├─▣ 📞 : +62 838-6129-3196
+├─▣ 📧 : muhamadgilangabdulgani@gmail.com
+├─▣ 📍 : Ciamis, Indonesia
 │
 └───────────────────────────────▰▰▰
 
@@ -110,7 +109,7 @@
 │
 └───────────────────────────────▰▰▰
     
-<h2 align="center">HATUR NUHUN! <p>and have nice day 😉<p></h2>
+<h2 align="center">Thank You! <p>have nice day 😉<p></h2>
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 </pre>
