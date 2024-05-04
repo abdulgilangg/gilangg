@@ -26,7 +26,7 @@
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
 ├─▣ Hey there! 👋, I am Gilang
-├─▣ 👨‍💻 Full-Stack Developer 🤲
+├─▣ 👨‍💻 Full-Stack Developer
 |
 ├─▣ 🪪 : Muhamad Gilang Abdul Gani
 ├─▣ 🏢 : Student & Freelance (Available)
