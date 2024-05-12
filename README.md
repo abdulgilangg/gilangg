@@ -111,6 +111,7 @@
 └───────────────────────────────▰▰▰
     
 <h2 align="center">Thank You! <p>have nice day 😉<p></h2>
+<h2 align="center"><p>© Copyright by @mgilangggggg All Rights Reserved.</P></h2>
 
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 </pre>
