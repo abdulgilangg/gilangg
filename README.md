@@ -47,7 +47,7 @@
 │     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
 ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
 │   └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
-│     ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React</a>
+│     ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
 │     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15"/> Vue js</a>
 │   └─┤ ▼ 📂 LIBRARY ├───────▰▰▰
 │     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
@@ -93,14 +93,7 @@
 
 ┌──┤ ▼ 📂 CONNECT WITH ME ├─────────▰▰▰
 │
-├─◈ <a href="https://twitter.com/mgilangggggg">Twitter</a>
-├─◈ <a href="https://www.instagram.com/mgilangggggg/">Instagram</a>
-├─◈ <a href="https://facebook.com/mgilangggggg">Facebook</a>
-├─◈ <a href="https://t.me/mgilangggggg">Telegram</a>
-├─◈ <a href="https://www.youtube.com/@mgilangggggg">YouTube</a>
-├─◈ <a href="https://www.linkedin.com/in/mgilangggggg">LinkedIn</a>
-├─◈ <a href="https://open.spotify.com/user/2ggfmuo2fm3urlkalrq3xt02u?si=b9a347c3e1da4ee0">Spotify</a>
-├─◈ <a href="https://discord.gg/mgilangggggg">Discord</a>
+├─◈ <a href="https://linktr.ee/mgilangggggg">All Medsos</a>
 │
 └───────────────────────────────▰▰▰
 
