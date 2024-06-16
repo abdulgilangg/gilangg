@@ -26,10 +26,10 @@
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
 ├─▣ Hey there! 👋, I am Gilang
-├─▣ 👨‍💻 Full-Stack Developer 🤲
+├─▣ 👨‍💻 Full-Stack Web Developer 🤲
 |
 ├─▣ 🪪 : Muhamad Gilang Abdul Gani
-├─▣ 🏢 : Student & Freelance (Available)
+├─▣ 🏢 : Informatics Engineering Student | Web Development & UI UX Design at Independent Study Infinite Learning Batch 6
 ├─▣ 📞 : +62 838-6129-3196
 ├─▣ 📧 : muhamadgilangabdulgani@gmail.com
 ├─▣ 📍 : Ciamis, Indonesia
