@@ -66,9 +66,9 @@
 │
 │   └─┤ ▼ 📂 Framework ├───────▰▰▰
 │     ├─◈ <img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel
-│     ├─◈ <img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express JS
+│     ├─◈ <img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express.js
 │     └─┤ ▼ 📂 Runtime Environment ├───────▰▰▰
-│       └─◈ <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS
+│       └─◈ <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node.js
 │
 │   └─┤ ▼ 📂 Version Control Systems ├───────▰▰▰
 │     └─◈ <img src="https://skillicons.dev/icons?i=git&theme=light" width="15" /> Git
