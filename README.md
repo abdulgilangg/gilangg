@@ -25,16 +25,16 @@
 
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
-├─▣ Hey there! 👋, I am Gilang
-├─▣ 👨‍💻 Full-Stack Web Developer 🤲
-|
-├─▣ 🪪 : Muhamad Gilang Abdul Gani
-├─▣ 🏢 : Informatics Engineering Student | Web Development & UI UX Design at Independent Study Infinite Learning Batch 6
-├─▣ 📞 : +62 838-6129-3196
-├─▣ 📧 : muhamadgilangabdulgani@gmail.com
-├─▣ 📍 : Ciamis, Indonesia
-|
-├─▣ <a href="https://www.google.com"><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
+│   ├─▣ Hey there! 👋, I am Gilang
+│   ├─▣ 👨‍💻 Full-Stack Web Developer 🤲
+│
+│   ├─▣ 🪪 : Muhamad Gilang Abdul Gani
+│   ├─▣ 🏢 : Informatics Engineering Student | Web Development & UI UX Design at Independent Study Infinite Learning Batch 6
+│   ├─▣ 📞 : +62 838-6129-3196
+│   ├─▣ 📧 : muhamadgilangabdulgani@gmail.com
+│   ├─▣ 📍 : Ciamis, Indonesia
+│
+│   ├─▣ <a href="https://www.google.com"><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
 
