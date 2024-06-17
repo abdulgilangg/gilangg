@@ -38,32 +38,55 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 FRONT END DEVELOPMENT ├───────▰▰▰
+┌──┤ ▼ 📂 FRONTEND ├───────▰▰▰
 │
-├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15"/> HTML</a>
-├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15"/> CSS</a>
-│   └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
-│     ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootstrap</a>
-│     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
-├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
-│   └─┤ ▼ 📂 FRAMEWORK ├───────▰▰▰
-│     ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
-│     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=vuejs&theme=light" width="15"/> Vue js</a>
-│   └─┤ ▼ 📂 LIBRARY ├───────▰▰▰
-│     └─◈ <a href=""><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
+│   └─┤ ▼ 📂 Languages ├───────▰▰▰
+│     ├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15"/> HTML</a>
+│     ├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15"/> CSS</a>
+│     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
+│     └─◈ <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="15" /> TypeScript</a>
+│
+│   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
+│     ├─◈ <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootstrap</a>
+│     ├─◈ <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
+│     └─◈ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
+│
+│   └─┤ ▼ 📂 Libraries ├───────▰▰▰
+│     └─◈ <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 BACK END DEVELOPMENT ├───────▰▰▰
+┌──┤ ▼ 📂 BACKEND ├───────▰▰▰
 │
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=expressjs&theme=light" width="15" /> Express JS</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=github&theme=light" width="15" /> Git</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="15" /> MYSQL</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
+│   └─┤ ▼ 📂 Language ├───────▰▰▰
+│     ├─◈ <img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java
+│     ├─◈ <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="15" /> JavaScript
+│     ├─◈ <img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP
+│     ├─◈ <img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python
+│
+│   └─┤ ▼ 📂 Framework ├───────▰▰▰
+│     ├─◈ <img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel
+│     ├─◈ <img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express JS
+│     └─┤ ▼ 📂 Runtime Environment ├───────▰▰▰
+│       └─◈ <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node JS
+│
+│   └─┤ ▼ 📂 Version Control Systems ├───────▰▰▰
+│     └─◈ <img src="https://skillicons.dev/icons?i=git&theme=light" width="15" /> Git
+│
+│   └─┤ ▼ 📂 Repo hosting services ├───────▰▰▰
+│     └─◈ <img src="https://skillicons.dev/icons?i=github&theme=light" width="15" /> GitHub
+│
+│   └─┤ ▼ 📂 Relational Databases ├───────▰▰▰
+│     ├─◈ <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="15" /> MySQL
+│     ├─◈ <img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="15" /> SQLite
+│     └─◈ <img src="https://skillicons.dev/icons?i=mariadb&theme=light" width="15" /> MariaDB
+│
+│   └─┤ ▼ 📂 APIs ├───────▰▰▰
+│     ├─◈ REST
+│     └─◈ JSON APIs
+│
+│   └─┤ ▼ 📂 Authentication ├───────▰▰▰
+│     └─◈ JWT
 │
 └───────────────────────────────▰▰▰
 
@@ -85,9 +108,9 @@
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
 ├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canvas</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Dribble</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Filmora</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Termux</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=dribble&theme=light" width="15" /> Dribble</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=filmora&theme=light" width="15" /> Filmora</a>
+├─◈ <a href=""><img src="https://skillicons.dev/icons?i=termux&theme=light" width="15" /> Termux</a>
 │
 └───────────────────────────────▰▰▰
 
