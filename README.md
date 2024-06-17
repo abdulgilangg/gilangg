@@ -58,71 +58,72 @@
 
 ┌──┤ ▼ 📂 BACKEND ├───────▰▰▰
 │
-│   └─┤ ▼ 📂 Language ├───────▰▰▰
-│     ├─◈ <img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java
-│     ├─◈ <img src="https://skillicons.dev/icons?i=javascript&theme=light" width="15" /> JavaScript
-│     ├─◈ <img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP
-│     ├─◈ <img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python
+│   └─┤ ▼ 📂 Languages ├───────▰▰▰
+│     ├─◈ <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
+│     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=light" width="15" /> JavaScript</a>
+│     ├─◈ <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
+│     ├─◈ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
 │
-│   └─┤ ▼ 📂 Framework ├───────▰▰▰
-│     ├─◈ <img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel
-│     ├─◈ <img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express.js
-│     └─┤ ▼ 📂 Runtime Environment ├───────▰▰▰
-│       └─◈ <img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node.js
+│   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
+│     ├─◈ <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
+│     ├─◈ <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express.js</a>
+│   └─┤ ▼ 📂 Runtime Environment ├───────▰▰▰
+│     └─◈ <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node.js</a>
 │
 │   └─┤ ▼ 📂 Version Control Systems ├───────▰▰▰
-│     └─◈ <img src="https://skillicons.dev/icons?i=git&theme=light" width="15" /> Git
+│     └─◈ <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=light" width="15" /> Git</a>
 │
-│   └─┤ ▼ 📂 Repo hosting services ├───────▰▰▰
-│     └─◈ <img src="https://skillicons.dev/icons?i=github&theme=light" width="15" /> GitHub
+│   └─┤ ▼ 📂 Repo Hosting Services ├───────▰▰▰
+│     └─◈ <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=light" width="15" /> GitHub</a>
 │
 │   └─┤ ▼ 📂 Relational Databases ├───────▰▰▰
-│     ├─◈ <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="15" /> MySQL
-│     ├─◈ <img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="15" /> SQLite
-│     └─◈ <img src="https://skillicons.dev/icons?i=mariadb&theme=light" width="15" /> MariaDB
+│     ├─◈ <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=light" width="15" /> MySQL</a>
+│     ├─◈ <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite&theme=light" width="15" /> SQLite</a>
+│     └─◈ <a href="https://mariadb.org/"><img src="https://skillicons.dev/icons?i=mariadb&theme=light" width="15" /> MariaDB</a>
 │
 │   └─┤ ▼ 📂 APIs ├───────▰▰▰
-│     ├─◈ REST
-│     └─◈ JSON APIs
+│     ├─◈ <a href="https://restfulapi.net/"><img src="" width="15"> REST</a>
+│     └─◈ <a href="https://www.json.org/json-en.html"><img src="" width="15"> JSON APIs</a>
 │
 │   └─┤ ▼ 📂 Authentication ├───────▰▰▰
-│     └─◈ JWT
+│     └─◈ <a href="https://jwt.io/"><img src="" width="15"> JWT</a>
 │
 └───────────────────────────────▰▰▰
 
+
 ┌──┤ ▼ 📂 DESIGN TOOLS ├───────▰▰▰
 │
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=miro&theme=light" width="15" /> Miro</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=balsamiq&theme=light" width="15" /> Balsamiq</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=photoshop&theme=light" width="15" /> Adobe Photoshop</a>
+│   └─◈ <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
+│   └─◈ <a href="https://miro.com/"><img src="https://skillicons.dev/icons?i=miro&theme=light" width="15" /> Miro</a>
+│   └─◈ <a href="https://balsamiq.com/"><img src="https://skillicons.dev/icons?i=balsamiq&theme=light" width="15" /> Balsamiq</a>
+│   └─◈ <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop&theme=light" width="15" /> Adobe Photoshop</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 OTHERS ├───────▰▰▰
 │
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canvas</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=dribble&theme=light" width="15" /> Dribble</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=filmora&theme=light" width="15" /> Filmora</a>
-├─◈ <a href=""><img src="https://skillicons.dev/icons?i=termux&theme=light" width="15" /> Termux</a>
+│   └─◈ <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
+│   └─◈ <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
+│   └─◈ <a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
+│   └─◈ <a href="https://www.blogger.com/"><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
+│   └─◈ <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
+│   └─◈ <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
+│   └─◈ <a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canva</a>
+│   └─◈ <a href="https://dribbble.com/"><img src="https://skillicons.dev/icons?i=dribbble&theme=light" width="15" /> Dribbble</a>
+│   └─◈ <a href="https://filmora.wondershare.com/"><img src="https://skillicons.dev/icons?i=filmora&theme=light" width="15" /> Filmora</a>
+│   └─◈ <a href="https://termux.com/"><img src="https://skillicons.dev/icons?i=termux&theme=light" width="15" /> Termux</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 CONNECT WITH ME ├─────────▰▰▰
 │
-├─◈ <a href="https://linktr.ee/mgilangggggg">Social Media</a>
+│   └─◈ <a href="https://linktr.ee/mgilangggggg">Social Media</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 SUPPORT ├─────────▰▰▰
 │
-├─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=blue"/></a>
+│   └─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=blue"/></a>
 │
 └───────────────────────────────▰▰▰
     
