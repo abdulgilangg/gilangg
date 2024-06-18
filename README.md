@@ -34,7 +34,7 @@
 │   ├─▣ 📧 : muhamadgilangabdulgani@gmail.com
 │   ├─▣ 📍 : Ciamis, Indonesia
 │
-│   ├─▣ <a href="https://www.google.com"><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
+│   └─▣ <a href="https://www.google.com"><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
 
@@ -93,24 +93,24 @@
 
 ┌──┤ ▼ 📂 DESIGN TOOLS ├───────▰▰▰
 │
-│   └─◈ <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
-│   └─◈ <a href="https://miro.com/"><img src="https://skillicons.dev/icons?i=miro&theme=light" width="15" /> Miro</a>
-│   └─◈ <a href="https://balsamiq.com/"><img src="https://skillicons.dev/icons?i=balsamiq&theme=light" width="15" /> Balsamiq</a>
+│   ├─◈ <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
+│   ├─◈ <a href="https://miro.com/"><img src="https://skillicons.dev/icons?i=miro&theme=light" width="15" /> Miro</a>
+│   ├─◈ <a href="https://balsamiq.com/"><img src="https://skillicons.dev/icons?i=balsamiq&theme=light" width="15" /> Balsamiq</a>
 │   └─◈ <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop&theme=light" width="15" /> Adobe Photoshop</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 OTHERS ├───────▰▰▰
 │
-│   └─◈ <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
-│   └─◈ <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
-│   └─◈ <a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
-│   └─◈ <a href="https://www.blogger.com/"><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
-│   └─◈ <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
-│   └─◈ <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
-│   └─◈ <a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canva</a>
-│   └─◈ <a href="https://dribbble.com/"><img src="https://skillicons.dev/icons?i=dribbble&theme=light" width="15" /> Dribbble</a>
-│   └─◈ <a href="https://filmora.wondershare.com/"><img src="https://skillicons.dev/icons?i=filmora&theme=light" width="15" /> Filmora</a>
+│   ├─◈ <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
+│   ├─◈ <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
+│   ├─◈ <a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
+│   ├─◈ <a href="https://www.blogger.com/"><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
+│   ├─◈ <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
+│   ├─◈ <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
+│   ├─◈ <a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canva</a>
+│   ├─◈ <a href="https://dribbble.com/"><img src="https://skillicons.dev/icons?i=dribbble&theme=light" width="15" /> Dribbble</a>
+│   ├─◈ <a href="https://filmora.wondershare.com/"><img src="https://skillicons.dev/icons?i=filmora&theme=light" width="15" /> Filmora</a>
 │   └─◈ <a href="https://termux.com/"><img src="https://skillicons.dev/icons?i=termux&theme=light" width="15" /> Termux</a>
 │
 └───────────────────────────────▰▰▰
