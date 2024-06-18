@@ -66,7 +66,8 @@
 │
 │   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
 │     ├─◈ <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
-│     ├─◈ <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express.js</a>
+│     └─◈ <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express.js</a>
+|    
 │   └─┤ ▼ 📂 Runtime Environment ├───────▰▰▰
 │     └─◈ <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node.js</a>
 │
