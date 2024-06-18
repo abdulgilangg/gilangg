@@ -62,7 +62,7 @@
 │     ├─◈ <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
 │     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=light" width="15" /> JavaScript</a>
 │     ├─◈ <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
-│     ├─◈ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
+│     └─◈ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
 │
 │   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
 │     ├─◈ <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
