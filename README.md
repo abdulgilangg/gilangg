@@ -6,7 +6,7 @@
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 
 
-   ▼ 💾 DATA (D:)
+▼ 💾 DATA (D:)
 
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
@@ -16,7 +16,7 @@
 │   ├─▣ 📞 +6283861293196  
 │   ├─▣ 📧 muhamadgilangabdulgani@gmail.com
 │   ├─▣ 📍 Ciamis - Bandung, West Java, Indonesia
-│   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
+│   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV-Arrow%20Down.svg?style=flat-rounded&logo=&color=00ff00"/></a>
 │
 └───────────────────────────────▰▰▰
 
@@ -49,7 +49,7 @@
 │   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
 │     ├─◈ <a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel&theme=light" width="15" /> Laravel</a>
 │     └─◈ <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=light" width="15" /> Express.js</a>
-|    
+│    
 │   └─┤ ▼ 📂 Runtime Environment ├───────▰▰▰
 │     └─◈ <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node.js</a>
 │
@@ -72,7 +72,6 @@
 │     └─◈ <a href="https://jwt.io/"><img src="" width="15"> JWT</a>
 │
 └───────────────────────────────▰▰▰
-
 
 ┌──┤ ▼ 📂 DESIGN TOOLS ├───────▰▰▰
 │
@@ -106,7 +105,7 @@
 
 ┌──┤ ▼ 📂 SUPPORT ├────────────▰▰▰
 │
-│   └─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=blue"/></a>
+│   └─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=00ff00"/></a>
 │
 └───────────────────────────────▰▰▰
     
