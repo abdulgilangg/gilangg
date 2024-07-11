@@ -1,7 +1,7 @@
 <pre>
-<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=FA8072"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=white"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=white;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=00ff00;" />
 </h1>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 
