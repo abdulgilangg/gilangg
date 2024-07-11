@@ -1,44 +1,26 @@
 <pre>
-<!-- Typing -->
-<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=ff69b4"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=FA8072"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+portfolio+🙌;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=00ff00;" />
 </h1>
-  
-<b>💾 DATA (D:)</b>    ⨉    +                                                                                       −    □    ⨉
-  ←    →    ↑    ⟳  모  >  This PC  >  DATA (D:)  >                                            Search DATA (D:)        ⌕
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
-  ⨁ New  |  ✂  ❐  ✎  📋  ↪  🗑  |  ⇅  Sort  ≣  View  |  ...
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
-                        ___   _      ___   _      ___   _      ___   _      ___   _      ___   _
-                       [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|    [(_)] |=|
-                        '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|     '-`  |_|
-                       /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /     /mmm/  /
-                             |____________|____________|____________|____________|____________|
-                                                   |            |            |
-                                               ___  \_      ___  \_      ___  \_
-                                              [(_)] |=|    [(_)] |=|    [(_)] |=|
-                                               '-`  |_|     '-`  |_|     '-`  |_|
-                                              /mmm/        /mmm/        /mmm/
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
+
+
    ▼ 💾 DATA (D:)
 
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
-│   ├─▣ Hey there! 👋, I am Gilang
-│   ├─▣ 👨‍💻 Full-Stack Web Developer 🤲
-│
-│   ├─▣ 🪪 : Muhamad Gilang Abdul Gani
-│   ├─▣ 🏢 : Informatics Engineering Student | Web Development & UI UX Design at Independent Study Infinite Learning Batch 6
-│   ├─▣ 📞 : +62 838-6129-3196
-│   ├─▣ 📧 : muhamadgilangabdulgani@gmail.com
-│   ├─▣ 📍 : Ciamis, Indonesia
-│
-│   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV ⬇️-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
+│   ├─▣ 🪪 Muhamad Gilang Abdul Gani
+│   ├─▣ 💼 Full-Stack Web Developer
+│   ├─▣ 🏫 Engineering & Computer Science
+│   ├─▣ 📞 +6283861293196  
+│   ├─▣ 📧 muhamadgilangabdulgani@gmail.com
+│   ├─▣ 📍 Ciamis - Bandung, West Java, Indonesia
+│   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 FRONTEND ├───────▰▰▰
+┌──┤ ▼ 📂 FRONTEND ├───────────▰▰▰
 │
 │   └─┤ ▼ 📂 Languages ├───────▰▰▰
 │     ├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15"/> HTML</a>
@@ -46,7 +28,7 @@
 │     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
 │     └─◈ <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="15" /> TypeScript</a>
 │
-│   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
+│   └─┤ ▼ 📂 Frameworks ├─────────▰▰▰
 │     ├─◈ <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootstrap</a>
 │     ├─◈ <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
 │     └─◈ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
@@ -56,7 +38,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 BACKEND ├───────▰▰▰
+┌──┤ ▼ 📂 BACKEND ├────────────▰▰▰
 │
 │   └─┤ ▼ 📂 Languages ├───────▰▰▰
 │     ├─◈ <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
@@ -101,7 +83,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 OTHERS ├───────▰▰▰
+┌──┤ ▼ 📂 OTHERS ├─────────────▰▰▰
 │
 │   ├─◈ <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
 │   ├─◈ <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
@@ -116,13 +98,13 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 CONNECT WITH ME ├─────────▰▰▰
+┌──┤ ▼ 📂 CONNECT WITH ME ├────▰▰▰
 │
 │   └─◈ <a href="https://linktr.ee/mgilangggggg">Social Media</a>
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ ▼ 📂 SUPPORT ├─────────▰▰▰
+┌──┤ ▼ 📂 SUPPORT ├────────────▰▰▰
 │
 │   └─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=blue"/></a>
 │
