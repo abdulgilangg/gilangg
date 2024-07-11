@@ -1,5 +1,5 @@
 <pre>
-<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=00ff00"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=3b8640"/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=00ff00;" />
 </h1>
@@ -11,7 +11,7 @@
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
 │   ├─▣ 🪪 Muhamad Gilang Abdul Gani
-│   ├─▣ 💼 Full-Stack Web Developer
+│   ├─▣ 💼 Junior Full-Stack Web Developer
 │   ├─▣ 🏫 Engineering & Computer Science
 │   ├─▣ 📞 +6283861293196  
 │   ├─▣ 📧 muhamadgilangabdulgani@gmail.com
