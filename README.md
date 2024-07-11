@@ -99,7 +99,7 @@
 
 ┌──┤ ▼ 📂 CONNECT WITH ME ├────▰▰▰
 │
-│   └─◈ <a href="https://linktr.ee/mgilangggggg">Social Media</a>
+│   └─◈ <a href="https://linktr.ee/mgilangggggg">More links</a>
 │
 └───────────────────────────────▰▰▰
 
