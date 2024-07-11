@@ -1,7 +1,7 @@
 <pre>
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=FA8072"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=00ff00;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=white;" />
 </h1>
 <a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
 
@@ -16,7 +16,7 @@
 │   ├─▣ 📞 +6283861293196  
 │   ├─▣ 📧 muhamadgilangabdulgani@gmail.com
 │   ├─▣ 📍 Ciamis - Bandung, West Java, Indonesia
-│   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV-Arrow%20Down.svg?style=flat-rounded&logo=&color=00ff00"/></a>
+│   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
 
@@ -105,7 +105,7 @@
 
 ┌──┤ ▼ 📂 SUPPORT ├────────────▰▰▰
 │
-│   └─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=00ff00"/></a>
+│   └─◈ <a href="https://saweria.co/mgilangggggg"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Saweria.svg?style=flat-rounded&logo=buymeacoffee&color=white"/></a>
 │
 └───────────────────────────────▰▰▰
     
