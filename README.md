@@ -54,6 +54,7 @@
 │     └─◈ <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light" width="15" /> Node.js</a>
 │
 │   └─┤ ▼ 📂 Version Control Systems ├───────▰▰▰
+|     ├─◈ <a href="https://gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab&theme=light" width="15" /> GitLab</a>
 │     └─◈ <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=light" width="15" /> Git</a>
 │
 │   └─┤ ▼ 📂 Repo Hosting Services ├───────▰▰▰
