@@ -30,7 +30,8 @@
 │   └─┤ ▼ 📂 Frameworks ├─────────▰▰▰
 │     ├─◈ <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootstrap</a>
 │     ├─◈ <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
-│     └─◈ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
+|     ├─◈ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
+│     └─◈ <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=next&theme=light" width="15"/> Next.js</a>
 │
 │   └─┤ ▼ 📂 Libraries ├───────▰▰▰
 │     └─◈ <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
