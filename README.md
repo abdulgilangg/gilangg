@@ -44,7 +44,7 @@
 │     ├─◈ <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
 │     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=light" width="15" /> JavaScript</a>
 │     ├─◈ <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
-      ├─◈ <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> Go</a>
+      ├─◈ <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=light" width="15" /> Go</a>
 │     └─◈ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
 │
 │   └─┤ ▼ 📂 Frameworks ├───────▰▰▰
