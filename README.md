@@ -1,9 +1,11 @@
 <pre>
 <img align="right" src="https://komarev.com/ghpvc/?username=mgilangggggg&label=👀_Visitor_‎&abbreviated=true&color=3b8640"/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=00ff00;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome👋&color=00ff00;" />
 </h1>
-<a href="https://www.animatedimages.org/cat-lines-562.htm"><img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/></a>
+<a href="https://www.animatedimages.org/cat-lines-562.htm">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0386.gif" width="1920"/>
+</a>
 
 ▼ 💾 DATA (D:)
 
@@ -12,7 +14,7 @@
 │   ├─▣ 🪪 Muhamad Gilang Abdul Gani
 │   ├─▣ 💼 BNN (Bagian Nengok - Nengok)
 │   ├─▣ 🏫 Engineering & Computer Science
-│   ├─▣ 📞 +6283861293196  
+│   ├─▣ 📞 +6283861293196
 │   ├─▣ 📧 muhamadgilangabdulgani@gmail.com
 │   ├─▣ 📍 Ciamis - Bandung, West Java, Indonesia
 │   └─▣ <a href="#"><img src="https://img.shields.io/badge/Download CV-Arrow%20Down.svg?style=flat-rounded&logo=&color=white"/></a>
@@ -24,13 +26,12 @@
 │   └─┤ ▼ 📂 Languages ├───────▰▰▰
 │     ├─◈ <a href="https://html.spec.whatwg.org/"><img src="https://skillicons.dev/icons?i=html" width="15"/> HTML</a>
 │     ├─◈ <a href="https://www.w3.org/TR/CSS/#css"><img src="https://skillicons.dev/icons?i=css" width="15"/> CSS</a>
-│     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15" /> JavaScript</a>
-│     └─◈ <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=typescript" width="15" /> TypeScript</a>
+│     └─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="15"/> JavaScript</a>     
 │
 │   └─┤ ▼ 📂 Frameworks ├─────────▰▰▰
-│     ├─◈ <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" width="15"/> Bootstrap</a>
 │     ├─◈ <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="15"/> Tailwind</a>
 |     ├─◈ <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> React.js</a>
+|     ├─◈ <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> TypeScript</a>
 │     └─◈ <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=next&theme=light" width="15"/> Next.js</a>
 │
 │   └─┤ ▼ 📂 Libraries ├───────▰▰▰
@@ -42,7 +43,6 @@
 │
 │   └─┤ ▼ 📂 Languages ├───────▰▰▰
 │     ├─◈ <a href="https://www.oracle.com/java/"><img src="https://skillicons.dev/icons?i=java&theme=light" width="15" /> Java</a>
-│     ├─◈ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript&theme=light" width="15" /> JavaScript</a>
 │     ├─◈ <a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php&theme=light" width="15" /> PHP</a>
       ├─◈ <a href="https://go.dev/"><img src="https://skillicons.dev/icons?i=go&theme=light" width="15" /> Go</a>
 │     └─◈ <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=light" width="15" /> Python</a>
