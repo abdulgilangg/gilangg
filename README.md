@@ -10,7 +10,7 @@
 ┌──┤ ▼ 📂 WHO AM I ├─────────▰▰▰
 │
 │   ├─▣ 🪪 Muhamad Gilang Abdul Gani
-│   ├─▣ 💼 -
+│   ├─▣ 💼 BNN (Bagian Nengok - Nengok)
 │   ├─▣ 🏫 Engineering & Computer Science
 │   ├─▣ 📞 +6283861293196  
 │   ├─▣ 📧 muhamadgilangabdulgani@gmail.com
