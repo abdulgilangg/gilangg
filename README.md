@@ -34,9 +34,6 @@
 |     ├─◈ <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=react&theme=light" width="15"/> TypeScript</a>
 │     └─◈ <a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=next&theme=light" width="15"/> Next.js</a>
 │
-│   └─┤ ▼ 📂 Libraries ├───────▰▰▰
-│     └─◈ <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" width="15"/> jQuery</a>
-│
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 BACKEND ├────────────▰▰▰
@@ -88,20 +85,12 @@
 │
 │   ├─◈ <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows&theme=light" width="15" /> Windows</a>
 │   ├─◈ <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali&theme=light" width="15" /> Kali</a>
-│   ├─◈ <a href="https://linuxmint.com/"><img src="https://skillicons.dev/icons?i=mint&theme=light" width="15" /> Mint</a>
-│   ├─◈ <a href="https://www.blogger.com/"><img src="https://skillicons.dev/icons?i=blogger" width="15" /> Blogger</a>
-│   ├─◈ <a href="https://wordpress.org/"><img src="https://skillicons.dev/icons?i=wordpress" width="15" /> Wordpress</a>
-│   ├─◈ <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity&theme=light" width="15" /> Unity</a>
-│   ├─◈ <a href="https://www.canva.com/"><img src="https://skillicons.dev/icons?i=canvas&theme=light" width="15" /> Canva</a>
-│   ├─◈ <a href="https://dribbble.com/"><img src="https://skillicons.dev/icons?i=dribbble&theme=light" width="15" /> Dribbble</a>
-│   ├─◈ <a href="https://filmora.wondershare.com/"><img src="https://skillicons.dev/icons?i=filmora&theme=light" width="15" /> Filmora</a>
-│   └─◈ <a href="https://termux.com/"><img src="https://skillicons.dev/icons?i=termux&theme=light" width="15" /> Termux</a>
 │
 └───────────────────────────────▰▰▰
 
 ┌──┤ ▼ 📂 CONNECT WITH ME ├────▰▰▰
 │
-│   └─◈ <a href="https://linktr.ee/mgilangggggg">🔗 More links</a>
+│   └─◈ <a href="https://linktr.ee/mgilangggggg"><img src="https://linktr.ee/icons?i=windows&theme=light" width="15" /> Linktree</a>
 │
 └───────────────────────────────▰▰▰
 
