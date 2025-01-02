@@ -77,7 +77,6 @@
 │   ├─◈ <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=light" width="15" /> Figma</a>
 │   ├─◈ <a href="https://miro.com/"><img src="https://skillicons.dev/icons?i=miro&theme=light" width="15" /> Miro</a>
 │   ├─◈ <a href="https://balsamiq.com/"><img src="https://skillicons.dev/icons?i=balsamiq&theme=light" width="15" /> Balsamiq</a>
-│   └─◈ <a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=photoshop&theme=light" width="15" /> Adobe Photoshop</a>
 │
 └───────────────────────────────▰▰▰
 
